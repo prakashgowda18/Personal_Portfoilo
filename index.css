@@ -4,3 +4,10 @@
     font-weight :400px; 
     font-style: normal;
   }
+  .connect-contact{
+    text-decoration: none;
+    color: white;
+  }
+  .connect-contact:hover{
+    color:black;
+  }
