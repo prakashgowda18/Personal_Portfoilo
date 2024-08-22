@@ -11,4 +11,9 @@
   .connect-contact:hover{
     color:black;
   }
-  
+  button{
+    color:yellowgreen;
+  }
+  a{
+    text-decoration: none;
+  }
